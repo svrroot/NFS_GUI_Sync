@@ -46,7 +46,7 @@ sudo pacman -S python python-pip python-gobject gtk3 rsync cifs-utils
 pip3 install keyring
 
 # Repository klonen
-git clone https://github.com/DEIN-USERNAME/nfs-sync-manager.git
+git clone https://github.com/svrroot/nfs-sync-manager.git
 cd nfs-sync-manager
 
 # Ausführbar machen
